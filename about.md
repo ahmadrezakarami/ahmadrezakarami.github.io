@@ -8,16 +8,12 @@ Hi, I'm Ahmad R Karami MS.c Student at K. N. Toosi University of Technology of I
 ### Education
 
     K. N. Toosi University of Technology
-    
     Master's degree Aerospace, Aeronautical and Astronautical Engineering
-    
     2017 – 2020
     
     
     Shahid Chamran University
-    
     Bachelor's degree Mechanical Engineering
-    
     2012 – 2017
  
 ### Projects
