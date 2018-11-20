@@ -21,7 +21,7 @@ author:
   info:
 
 url: https://ahmadkarami.me/
-baseurl: "/"
+baseurl: ""
 
 # language attribute in <html> element.
 lang: en
