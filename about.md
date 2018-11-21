@@ -19,15 +19,21 @@ Hi, I'm Ahmad R Karami MS.c Student at K. N. Toosi University of Technology of I
 ### Projects
 
  1. Droplet Impact On Solid Surface
+ 
  2016 – 2017
+ 
  2D Simulation with Ansys Fluent
  
  2. Fluid Solid Interaction (FSI)
+ 
  2017 – 2018
+ 
  different methods for simulation (Seminar)
  
  3. Experimental investigation of tip vortex control on finite-span wing using plasma actuator
+ 
  2018 – Present
+ 
  MS.c thesis
  
 ### Skills
